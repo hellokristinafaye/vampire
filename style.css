@@ -35,3 +35,10 @@ header {
     color: white;
     padding: 5px 30px;
 }
+main h2, h3 {
+    font-family: Fascinate;
+    font-style: italic;
+}
+.article {
+    background: white;
+}
