@@ -23,3 +23,15 @@ header {
     justify-content: space-around;
     align-items: center;
 }
+.search input, button{
+    font-family: "PT Sans Narrow";
+    font-weight: 80;
+}
+.input-box {
+    padding: 5px 40px 5px 5px;
+}
+.search-btn {
+    background: rgb(27, 23, 23);
+    color: white;
+    padding: 5px 30px;
+}
