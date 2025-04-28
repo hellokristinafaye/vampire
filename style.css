@@ -35,6 +35,9 @@ header {
     color: white;
     padding: 5px 30px;
 }
+main {
+    display: flex;
+}
 main h2, h3 {
     font-family: Fascinate;
     font-style: italic;   
@@ -45,4 +48,6 @@ main p, ul, li {
 }
 .article {
     background: white;
+    padding: 15px;
+    flex-basis: 74%;
 }
