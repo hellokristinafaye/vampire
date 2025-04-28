@@ -55,3 +55,10 @@ main p, ul, li {
 .article h2 {
     text-align: center;
 }
+
+aside {
+    background:rgb(125, 6, 6);
+    padding: 10px;
+    flex-basis: 24%;
+    margin: 15px 0;
+}
