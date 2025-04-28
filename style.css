@@ -37,7 +37,11 @@ header {
 }
 main h2, h3 {
     font-family: Fascinate;
-    font-style: italic;
+    font-style: italic;   
+}
+main p, ul, li {
+    font-family: "PT Sans Narrow";
+    font-weight: 80;
 }
 .article {
     background: white;
