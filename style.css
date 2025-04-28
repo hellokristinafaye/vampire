@@ -17,3 +17,7 @@ header {
     font-family: "PT Sans Narrow";
     font-weight: 80;
 }
+.navbar {
+    background: rgb(125, 6, 6);
+
+}
