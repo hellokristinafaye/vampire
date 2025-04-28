@@ -50,4 +50,5 @@ main p, ul, li {
     background: white;
     padding: 15px;
     flex-basis: 74%;
+    margin: 15px 15px 15px 0;
 }
