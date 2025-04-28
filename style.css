@@ -65,3 +65,9 @@ aside {
 aside h2 {
     text-align: center;
 }
+footer {
+    background: white;
+    padding: 10px;
+    font-family: "PT Sans Narrow";
+    font-weight: 80;
+}
