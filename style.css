@@ -62,3 +62,6 @@ aside {
     flex-basis: 24%;
     margin: 15px 0;
 }
+aside h2 {
+    text-align: center;
+}
